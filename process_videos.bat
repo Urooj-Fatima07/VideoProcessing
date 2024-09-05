@@ -1,3 +1,5 @@
+@REM command Lines
+
 @echo off
 set INPUT_DIR=input
 set OUTPUT_DIR=output
