@@ -1,4 +1,4 @@
-# Video Processing with FFmpeg
+# Video Processing with FFMPeg
 
 This repository contains a batch script to automate the conversion, resizing, and optimization of video files using FFmpeg. The script converts videos to MP4 format, resizes them to 1920x1080 resolution, and optimizes their quality for web use.
 
