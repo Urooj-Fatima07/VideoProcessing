@@ -12,7 +12,10 @@ This repository contains a batch script to automate the conversion, resizing, an
 
 Before running the script, ensure the following folder structure in your project directory:
 
-video-processing/ │ ├── input/ # Folder where you place the original video files │ ├── output/ # Folder where processed video files will be saved │ └── process_videos.bat # Batch script for Windows to process the videos
+video-processing/ <br>
+├── input/         # Folder where you place the original video files <br>
+├── output/        # Folder where processed video files will be saved <br>
+└── process_videos.bat  # Batch script for Windows to process the videos <br>
 
 
 ## Installation and Setup
@@ -20,7 +23,7 @@ video-processing/ │ ├── input/ # Folder where you place the original vid
 1. **Clone this repository**:
 
    ```bash
-   git clone https://github.com/yourusername/video-processing.git
+   git clone https://github.com/Urooj-Fatima07/VideoProcessing.git
 
 2. **Place the Videos for Processing**:
 
